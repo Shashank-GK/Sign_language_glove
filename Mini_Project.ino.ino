@@ -67,7 +67,7 @@ else if(first_finger >236 && first_finger<300 )
 lcd.setCursor(1,0);
 lcd.print("  I LIVE IN ");
 lcd.setCursor(0,1);
-lcd.print("     PEENYA  ");
+lcd.print("  Bengaluru  ");
 delay(500);
   
   }
